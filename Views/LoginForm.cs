@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,16 @@ namespace PROJET_C__GESTIONRESTO.Views
 {
     public partial class LoginForm : Form
     {
+        private string? connectionString;
         public LoginForm()
         {
             InitializeComponent();
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+            var configuration = ConfigurationHelper.GetConfiguration();
+            connectionString = configuration.GetConnectionString("MySqlConnection");
         }
 
         private void guna2ToggleSwitch1_CheckedChanged(object sender, EventArgs e)
@@ -36,11 +44,6 @@ namespace PROJET_C__GESTIONRESTO.Views
         }
 
         private void guna2PictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LoginForm_Load(object sender, EventArgs e)
         {
 
         }

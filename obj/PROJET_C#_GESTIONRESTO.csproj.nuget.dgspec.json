@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\PROJET_C#_GESTIONRESTO.csproj": {}
+    "C:\\Users\\AMD\\Documents\\LiPRO Dev\\C#\\GestionRestoC-Fork\\PROJET_C#_GESTIONRESTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\PROJET_C#_GESTIONRESTO.csproj": {
+    "C:\\Users\\AMD\\Documents\\LiPRO Dev\\C#\\GestionRestoC-Fork\\PROJET_C#_GESTIONRESTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\PROJET_C#_GESTIONRESTO.csproj",
+        "projectUniqueName": "C:\\Users\\AMD\\Documents\\LiPRO Dev\\C#\\GestionRestoC-Fork\\PROJET_C#_GESTIONRESTO.csproj",
         "projectName": "PROJET_C#_GESTIONRESTO",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\PROJET_C#_GESTIONRESTO.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\obj\\",
+        "projectPath": "C:\\Users\\AMD\\Documents\\LiPRO Dev\\C#\\GestionRestoC-Fork\\PROJET_C#_GESTIONRESTO.csproj",
+        "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AMD\\Documents\\LiPRO Dev\\C#\\GestionRestoC-Fork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -55,6 +55,24 @@
               "version": "[2.0.4.6, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
