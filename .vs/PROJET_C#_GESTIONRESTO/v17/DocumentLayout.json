@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|c:\\users\\hp\\source\\repos\\projet_c#_gestionresto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|c:\\users\\hp\\source\\repos\\projet_c#_gestionresto\\views\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\views\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:views\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|c:\\users\\hp\\source\\repos\\projet_c#_gestionresto\\viewmodels\\tableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:viewmodels\\tableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|c:\\users\\hp\\source\\repos\\projet_c#_gestionresto\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|c:\\users\\hp\\source\\repos\\projet_c#_gestionresto\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8CCA44D5-6ECB-43F4-A4F3-26ECF7EBD13F}|PROJET_C#_GESTIONRESTO.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,32 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:13:58.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TableForm.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\TableForm.cs",
-              "RelativeDocumentMoniker": "Views\\TableForm.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\TableForm.cs [Conception]",
-              "RelativeToolTip": "Views\\TableForm.cs [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:35:16.242Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TableViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\ViewModels\\TableViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\TableViewModel.cs",
@@ -104,14 +75,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "LoginForm.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\LoginForm.cs",
               "RelativeDocumentMoniker": "Views\\LoginForm.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\LoginForm.cs [Conception]",
               "RelativeToolTip": "Views\\LoginForm.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:28:23.82Z"
+              "WhenOpened": "2024-12-09T20:28:23.82Z",
+              "EditorCaption": " [Conception]"
             },
             {
               "$type": "Document",
@@ -121,9 +93,33 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswAoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywAoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:26:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableForm.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\TableForm.cs",
+              "RelativeDocumentMoniker": "Views\\TableForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\TableForm.cs [Conception]",
+              "RelativeToolTip": "Views\\TableForm.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:35:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:13:58.611Z",
               "EditorCaption": ""
             },
             {
@@ -137,18 +133,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T09:13:55.577Z",
               "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Views\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\PROJET_C#_GESTIONRESTO\\Views\\LoginForm.cs",
-              "RelativeToolTip": "Views\\LoginForm.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:26:51.483Z"
             },
             {
               "$type": "Document",

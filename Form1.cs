@@ -9,9 +9,15 @@ namespace PROJET_C__GESTIONRESTO
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Hide();
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
             (new Views.LoginForm()).Show();
-           
+            this.Hide();
         }
     }
 }
