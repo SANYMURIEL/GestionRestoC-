@@ -6,5 +6,12 @@ namespace PROJET_C__GESTIONRESTO
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Hide();
+            (new Views.LoginForm()).Show();
+           
+        }
     }
 }

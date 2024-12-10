@@ -118,43 +118,70 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="house-solid (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\house-solid (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="restaurant(1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\restaurant(1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="restaurant" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\restaurant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="restaurant2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\restaurant2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="house-solid (3)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\house-solid (3)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="supprimer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\supprimer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="utilisateur" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\utilisateur.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="restaurant1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\restaurant1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="house-solid (3)4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\house-solid (3)4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="user-regular-_1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user-regular-_1_.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="editer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\editer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="house-solid (3)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\house-solid (3)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="restaurant(2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\restaurant(2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="restaurant(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\restaurant(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="house-solid (3)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\house-solid (3)3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="house-solid (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house-solid (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="chevron-left-solid" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chevron-left-solid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="restaurant(1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\restaurant(1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="table-ronde1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\table-ronde1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="table-ronde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\table-ronde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user-regular-_1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user-regular-_1_.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="restaurant(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\restaurant(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user-solid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user-solid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="utilisateur" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\utilisateur.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="restaurant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\restaurant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="restaurant(2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\restaurant(2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chercher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chercher.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house-solid (3)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house-solid (3)3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="restaurant1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\restaurant1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house-solid (3)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house-solid (3)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house-solid (3)4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house-solid (3)4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user-solid1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user-solid1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ingredient" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ingredient.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

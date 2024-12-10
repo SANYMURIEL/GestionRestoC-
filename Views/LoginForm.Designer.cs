@@ -48,7 +48,7 @@
             guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
             guna2ToggleSwitch1 = new Guna.UI2.WinForms.Guna2ToggleSwitch();
             label3 = new Label();
-            guna2GradientButton1 = new Guna.UI2.WinForms.Guna2GradientButton();
+            btnLogin = new Guna.UI2.WinForms.Guna2GradientButton();
             guna2MessageDialog1 = new Guna.UI2.WinForms.Guna2MessageDialog();
             guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
@@ -154,28 +154,28 @@
             label3.TabIndex = 7;
             label3.Text = "Show password";
             // 
-            // guna2GradientButton1
+            // btnLogin
             // 
-            guna2GradientButton1.AutoRoundedCorners = true;
-            guna2GradientButton1.BackColor = Color.Transparent;
-            guna2GradientButton1.BorderRadius = 23;
-            guna2GradientButton1.CustomizableEdges = customizableEdges4;
-            guna2GradientButton1.DisabledState.BorderColor = Color.DarkGray;
-            guna2GradientButton1.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2GradientButton1.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2GradientButton1.DisabledState.FillColor2 = Color.FromArgb(169, 169, 169);
-            guna2GradientButton1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2GradientButton1.FillColor = Color.FromArgb(174, 34, 73);
-            guna2GradientButton1.FillColor2 = Color.FromArgb(212, 59, 102);
-            guna2GradientButton1.Font = new Font("Century Gothic", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2GradientButton1.ForeColor = Color.White;
-            guna2GradientButton1.Location = new Point(24, 461);
-            guna2GradientButton1.Name = "guna2GradientButton1";
-            guna2GradientButton1.ShadowDecoration.CustomizableEdges = customizableEdges5;
-            guna2GradientButton1.Size = new Size(392, 48);
-            guna2GradientButton1.TabIndex = 8;
-            guna2GradientButton1.Text = "LOGIN";
-            guna2GradientButton1.Click += guna2GradientButton1_Click;
+            btnLogin.AutoRoundedCorners = true;
+            btnLogin.BackColor = Color.Transparent;
+            btnLogin.BorderRadius = 23;
+            btnLogin.CustomizableEdges = customizableEdges4;
+            btnLogin.DisabledState.BorderColor = Color.DarkGray;
+            btnLogin.DisabledState.CustomBorderColor = Color.DarkGray;
+            btnLogin.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btnLogin.DisabledState.FillColor2 = Color.FromArgb(169, 169, 169);
+            btnLogin.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btnLogin.FillColor = Color.FromArgb(174, 34, 73);
+            btnLogin.FillColor2 = Color.FromArgb(212, 59, 102);
+            btnLogin.Font = new Font("Century Gothic", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnLogin.ForeColor = Color.White;
+            btnLogin.Location = new Point(24, 461);
+            btnLogin.Name = "btnLogin";
+            btnLogin.ShadowDecoration.CustomizableEdges = customizableEdges5;
+            btnLogin.Size = new Size(392, 48);
+            btnLogin.TabIndex = 8;
+            btnLogin.Text = "LOGIN";
+            btnLogin.Click += btnLogin_Click;
             // 
             // guna2MessageDialog1
             // 
@@ -216,6 +216,7 @@
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             guna2CirclePictureBox1.TabIndex = 12;
             guna2CirclePictureBox1.TabStop = false;
+            guna2CirclePictureBox1.Click += guna2CirclePictureBox1_Click;
             // 
             // label1
             // 
@@ -239,6 +240,7 @@
             linkLabel1.TabIndex = 15;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "Forgot password?";
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
             // label2
             // 
@@ -262,7 +264,7 @@
             Controls.Add(label1);
             Controls.Add(guna2CirclePictureBox1);
             Controls.Add(guna2Button1);
-            Controls.Add(guna2GradientButton1);
+            Controls.Add(btnLogin);
             Controls.Add(label3);
             Controls.Add(guna2ToggleSwitch1);
             Controls.Add(guna2TextBox2);
@@ -286,7 +288,7 @@
         private Label label3;
         private Guna.UI2.WinForms.Guna2ToggleSwitch guna2ToggleSwitch1;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
-        private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton1;
+        private Guna.UI2.WinForms.Guna2GradientButton btnLogin;
         private Guna.UI2.WinForms.Guna2MessageDialog guna2MessageDialog1;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;

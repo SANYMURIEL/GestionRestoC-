@@ -34,5 +34,47 @@ namespace PROJET_C__GESTIONRESTO.Views
         {
 
         }
+
+        private void CenterPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2PictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            AddControls(new TableForm());
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            var result = guna2MessageDialog1.Show();
+            if (result == DialogResult.Yes)
+            {
+
+                Application.Exit(); // Utilisez Application.Exit() pour fermer complètement l'application
+            }
+        }
+
+        private void guna2GradientButton3_Click(object sender, EventArgs e)
+        {
+            AddControls(new IgdForm());
+        }
+
+        private void guna2Panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -7,14 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace PROJET_C__GESTIONRESTO.Views
 {
     public partial class LoginForm : Form
     {
+
+        public LoginViewModel viewModel;
+
         public LoginForm()
         {
             InitializeComponent();
+            viewModel = new LoginViewModel(); // Initialisation ici
         }
 
         private void guna2ToggleSwitch1_CheckedChanged(object sender, EventArgs e)
@@ -29,24 +34,11 @@ namespace PROJET_C__GESTIONRESTO.Views
             }
         }
 
-        private void guna2GradientButton1_Click(object sender, EventArgs e)
-        {
-            (new MainForm()).ShowDialog();
 
-        }
-
-        private void guna2PictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LoginForm_Load(object sender, EventArgs e)
-        {
-
-        }
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
+
             var result = guna2MessageDialog1.Show();
             if (result == DialogResult.Yes)
             {
@@ -56,13 +48,34 @@ namespace PROJET_C__GESTIONRESTO.Views
 
         }
 
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            viewModel = new LoginViewModel();
+
+
+            viewModel.Username = guna2TextBox1.Text;
+            viewModel.Password = guna2TextBox2.Text;
+
+            viewModel.Login(this);
+            guna2TextBox1.Clear();
+            guna2TextBox2.Clear();
+
+        }
+
         private void guna2CirclePictureBox1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void guna2PictureBox1_Click_1(object sender, EventArgs e)
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+
+        
 
         }
     }

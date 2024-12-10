@@ -7,10 +7,28 @@
     <Compile Update="Views\HomeForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Views\IgdForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Views\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Views\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NewIgdForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NewTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SimpleView\Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SimpleView\ListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TableForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
